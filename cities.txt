@@ -4,3 +4,8 @@ calcutta
 calcutta
 Agra
 Haridwar
+Kolkata
+Mangalore
+Panji
+Ganji
+
