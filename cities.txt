@@ -3,5 +3,4 @@ Calcutta
 calcutta
 calcutta
 Agra
-Patna
-Nagpur
+Haridwar
